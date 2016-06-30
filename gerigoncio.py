@@ -1,5 +1,4 @@
-run = True
-while run == True:
+while True:
     palabra = input("Que palabra quieres traducir a gerigoncio?: ")
     lp = []
     cont = 0
